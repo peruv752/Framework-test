@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="FrameWorkTest" verbose="1" >
+  <test name="frame" >
+    <classes>
+       <class name="testcases.LogintestCRM" />
+    </classes>
+  </test> <!-- Test-->
+ 
+ 
+</suite> <!-- Suite-->
